@@ -1,7 +1,7 @@
 {
     "type": "GenericSmelter",
     "name": "Diamond Press",
-    "description": "Compresses graphite into diamond in extremely low temperatures",
+    "description": "Compresses graphite into [#47D1FF]diamond[] in extremely low temperatures",
     "liquidCapacity": 50,
     "itemCapacity": 50,
     "outputItem": {
