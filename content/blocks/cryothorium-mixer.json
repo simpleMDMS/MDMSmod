@@ -5,7 +5,7 @@
     "liquidCapacity": 50,
     "itemCapacity": 50,
     "outputLiquid": {
-        "liquid": "cryothorium",
+        "liquid": "liquid-cryothorium",
         "amount": 0.5
     },
     "size": 2,
