@@ -1,0 +1,8 @@
+{
+    "type": "material",
+    "name": "[#47D1FF]Diamond",
+    "description": "Diamond crystal, currently no use",
+    "hardness": 8,
+    "cost": 4.0,
+    "color": "47D1FF"
+}
