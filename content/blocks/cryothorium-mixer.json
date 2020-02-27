@@ -1,5 +1,5 @@
 {
-    "type": "GenericSmelter",
+    "type": "GenericCrafter",
     "name": "Cryothorium Mixer",
     "description": "Uses Thorium to cool Cryofluid even more!",
     "liquidCapacity": 50,
