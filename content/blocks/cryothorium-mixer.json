@@ -48,7 +48,7 @@
         }
     ],
     "category": "crafting",
-    "research": "cryo-mixer",
+    "research": "diamond-press",
     "idleSound": "respawning",
     "idleSoundVolume": 0.5
 }
