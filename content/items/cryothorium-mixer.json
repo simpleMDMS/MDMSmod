@@ -1,51 +1,50 @@
 {
-    "type": "GenericSmelter",
-    "name": "Diamond Press",
-    "description": "Compresses graphite into [#47D1FF]diamond[] in extremely low temperatures",
+    "type": "GenericCrafter",
+    "name": "Cryothorium Mixer",
+    "description": "Uses Thorium to cool Cryofluid even more!",
     "liquidCapacity": 50,
     "itemCapacity": 50,
-    "flameColor": "#47D1FF",
-    "outputItem": {
-        "item": "diamond",
-        "amount": 1
+    "outputLiquid": {
+        "liquid": "cryothorium",
+        "amount": 0.5
     },
     "size": 2,
     "hasPower": true,
     "hasLiquids": true,
     "hasItems": true,
-    "craftTime": 180,
+    "craftTime": 120,
     "updateEffect": "smeltsmoke",
     "consumes": {
-        "power": 2.0,
+        "power": 4.0,
         "items": {
             "items": [
                 {
-                    "item": "graphite",
+                    "item": "thorium",
                     "amount": 3
                 }
             ]
         },
         "liquid": {
             "liquid": "cryofluid",
-            "amount": 0.1
+            "amount": 0.5
         }
     },
     "requirements": [
         {
-            "item": "graphite",
-            "amount": 100
-        },
-        {
-            "item": "copper",
+            "item": "titanum",
             "amount": 200
         },
         {
-            "item": "titanium",
+            "item": "plastanium",
+            "amount": 100
+        },
+        {
+            "item": "diamond",
             "amount": 50
         }
     ],
     "category": "crafting",
-    "research": "blast-mixer",
+    "research": "cryofluid-mixer",
     "idleSound": "respawning",
     "idleSoundVolume": 0.5
 }

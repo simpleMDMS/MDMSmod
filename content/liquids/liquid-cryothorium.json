@@ -1,0 +1,10 @@
+{
+    "name": "[#f26b9e]Cryothorium",
+    "description": "Cryofluid, but frozen even more!",
+    "temperature": 0.1,
+    "amount": 0.5,
+    "viscosity": 0.25,
+    "heatCapacity": 1.5,
+    "effect": "freezing",
+    "color": "#f26b9e"
+}
