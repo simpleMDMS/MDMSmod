@@ -48,7 +48,7 @@
         }
     ],
     "category": "crafting",
-    "research": "cryofluidMixer",
+    "research": "cryo-mixer",
     "idleSound": "respawning",
     "idleSoundVolume": 0.5
 }
