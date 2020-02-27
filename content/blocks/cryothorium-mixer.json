@@ -31,8 +31,12 @@
     },
     "requirements": [
         {
-            "item": "titanum",
+            "item": "titanium",
             "amount": 200
+        },
+        {
+            "item": "thorium",
+            "amount": 100
         },
         {
             "item": "plastanium",
